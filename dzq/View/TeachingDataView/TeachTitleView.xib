@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TeachTitleView"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="TeachTitleView">
+            <rect key="frame" x="0.0" y="0.0" width="509" height="111"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GH3-b0-EVn">
+                    <rect key="frame" x="83" y="0.0" width="342" height="111"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="电子琴" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uW8-FX-A7h">
+                            <rect key="frame" x="10" y="30" width="77" height="26.5"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="77" id="hD7-Nz-KQW"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Electronic  keyboard" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mPB-eg-8dx">
+                            <rect key="frame" x="10" y="64" width="141" height="17"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                            <color key="textColor" red="0.14117647058823529" green="0.5725490196078431" blue="0.18823529411764706" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="资料" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gv2-m2-LJj">
+                            <rect key="frame" x="171" y="56" width="54" height="32.5"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                            <color key="textColor" red="0.14117647058823529" green="0.5725490196078431" blue="0.33333333333333331" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="教学" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kmi-6x-I5M">
+                            <rect key="frame" x="107" y="24" width="54" height="32.5"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                            <color key="textColor" red="0.14117647058823529" green="0.5725490196078431" blue="0.33333333333333331" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="342" id="OCu-Sb-GKV"/>
+                        <constraint firstItem="gv2-m2-LJj" firstAttribute="leading" secondItem="mPB-eg-8dx" secondAttribute="trailing" constant="20" id="cBf-08-KLk"/>
+                        <constraint firstItem="kmi-6x-I5M" firstAttribute="bottom" secondItem="uW8-FX-A7h" secondAttribute="bottom" id="d6D-fp-x14"/>
+                        <constraint firstItem="mPB-eg-8dx" firstAttribute="leading" secondItem="uW8-FX-A7h" secondAttribute="leading" id="gmV-9R-C5Z"/>
+                        <constraint firstItem="mPB-eg-8dx" firstAttribute="top" secondItem="uW8-FX-A7h" secondAttribute="bottom" constant="7" id="h1Z-nD-MvS"/>
+                        <constraint firstItem="uW8-FX-A7h" firstAttribute="top" secondItem="GH3-b0-EVn" secondAttribute="top" constant="30" id="kEi-Hp-vU2"/>
+                        <constraint firstItem="uW8-FX-A7h" firstAttribute="leading" secondItem="GH3-b0-EVn" secondAttribute="leading" constant="10" id="lLw-vf-luQ"/>
+                        <constraint firstItem="kmi-6x-I5M" firstAttribute="leading" secondItem="uW8-FX-A7h" secondAttribute="trailing" constant="20" id="tbM-fz-b64"/>
+                        <constraint firstItem="gv2-m2-LJj" firstAttribute="centerY" secondItem="mPB-eg-8dx" secondAttribute="centerY" id="u05-Ev-k8o"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="GH3-b0-EVn" secondAttribute="bottom" id="63C-oJ-goc"/>
+                <constraint firstItem="GH3-b0-EVn" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="ZUw-ii-MRV"/>
+                <constraint firstItem="GH3-b0-EVn" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="rlF-Jt-Hu1"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="414.5" y="249.5"/>
+        </view>
+    </objects>
+</document>

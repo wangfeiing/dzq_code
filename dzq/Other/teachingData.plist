@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>第一课  音阶</string>
+		<key>content</key>
+		<string>&lt;div&gt;&lt;ul&gt;&lt;li&gt;音阶的定义&lt;/li&gt;&lt;p&gt;音阶（Scale）指调式中的各音，从以某个音高为起点即从主音开始，按照音高次序将音符由低至高来排列，这样的音列称为音阶，世界各地有许多不同的音阶，随着音乐水平的进步，音乐非常完整的理论与系统，目前世界上几乎都是用西洋的十二平均律来作为学习音乐的基础，因此我们今天所说的音阶，就是以最普遍的大音阶（大调）与小音阶（小调）为主。&lt;/p&gt;&lt;li&gt;音阶的分类&lt;/li&gt;&lt;p&gt;根据调式所包含的音的数量可分为：&quot;五声音阶&quot;、&quot;七声音阶&quot;等。音阶由低到高叫做上行，由高到低叫做下行。五声音阶（Pentatonic scale）由五个音构成的音阶，多用于民族音乐的调式如：do、re、mi、sol、la、（do）。&lt;/p&gt;&lt;/ul&gt;&lt;/div&gt;</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>第二章  乐音体系</string>
+		<key>content</key>
+		<string>	&lt;div&gt;&lt;ul&gt;&lt;li&gt;乐音体系的定义&lt;/li&gt;&lt;p&gt;在音乐中使用的、有固定音高的音的总和，叫做乐音体系。&lt;/p&gt;&lt;li&gt;乐音体系的分类&lt;/li&gt;&lt;p&gt;(1)音列&lt;/p&gt;&lt;p&gt;乐音体系中的音，按照上行或下行次序排列起来，叫做音列。&lt;/p&gt;&lt;p&gt;(2)音级&lt;/p&gt;&lt;p&gt;乐音体系中的各音叫做音级。音级有基本音级和变化音级两种。乐音体系中，七个具有独立名称的音级叫做基本音级。基本音级的名称是用字母和唱名两种方式来标记的。两个相邻的具有同样名称的音叫做八度。升高或降低基本音级而得来的音，叫做变化音级。将基本音级升高半音用&quot;升&quot;或&quot; &quot;来标明；降低半音用&quot;降&quot; 或&quot; &quot;来表明；升高全音用&quot;重升&quot;或&quot;x&quot;来标明；降低全音用&quot;重降&quot; 或&quot; &quot;来标明；还原用&quot; &quot;表示。&lt;/p&gt;&lt;li&gt;音域与音区&lt;/li&gt;&lt;p&gt;音域可分为总的音域和个别音域、人声和乐器音域。音域中的一部分是音区，音区可分为高音区、中音区和低音区三种。人声的音区划分，往往是不相符合的，例如男低音的高音区却是女低音的低音区。但各音区具有自己的特性音色，这体现在音乐的表现中，一般来说：高音区清脆、尖锐；而低音区则低沉、浑厚。&lt;/p&gt;&lt;/ul&gt;&lt;/div&gt;	&lt;div&gt;&lt;ul&gt;&lt;li&gt;乐音体系的定义&lt;/li&gt;&lt;p&gt;在音乐中使用的、有固定音高的音的总和，叫做乐音体系。&lt;/p&gt;&lt;li&gt;乐音体系的分类&lt;/li&gt;&lt;p&gt;(1)音列&lt;/p&gt;&lt;p&gt;乐音体系中的音，按照上行或下行次序排列起来，叫做音列。&lt;/p&gt;&lt;p&gt;(2)音级&lt;/p&gt;&lt;p&gt;乐音体系中的各音叫做音级。音级有基本音级和变化音级两种。乐音体系中，七个具有独立名称的音级叫做基本音级。基本音级的名称是用字母和唱名两种方式来标记的。两个相邻的具有同样名称的音叫做八度。升高或降低基本音级而得来的音，叫做变化音级。将基本音级升高半音用&quot;升&quot;或&quot; &quot;来标明；降低半音用&quot;降&quot; 或&quot; &quot;来表明；升高全音用&quot;重升&quot;或&quot;x&quot;来标明；降低全音用&quot;重降&quot; 或&quot; &quot;来标明；还原用&quot; &quot;表示。&lt;/p&gt;&lt;li&gt;音域与音区&lt;/li&gt;&lt;p&gt;音域可分为总的音域和个别音域、人声和乐器音域。音域中的一部分是音区，音区可分为高音区、中音区和低音区三种。人声的音区划分，往往是不相符合的，例如男低音的高音区却是女低音的低音区。但各音区具有自己的特性音色，这体现在音乐的表现中，一般来说：高音区清脆、尖锐；而低音区则低沉、浑厚。&lt;/p&gt;&lt;/ul&gt;&lt;/div&gt;	&lt;div&gt;&lt;ul&gt;&lt;li&gt;乐音体系的定义&lt;/li&gt;&lt;p&gt;在音乐中使用的、有固定音高的音的总和，叫做乐音体系。&lt;/p&gt;&lt;li&gt;乐音体系的分类&lt;/li&gt;&lt;p&gt;(1)音列&lt;/p&gt;&lt;p&gt;乐音体系中的音，按照上行或下行次序排列起来，叫做音列。&lt;/p&gt;&lt;p&gt;(2)音级&lt;/p&gt;&lt;p&gt;乐音体系中的各音叫做音级。音级有基本音级和变化音级两种。乐音体系中，七个具有独立名称的音级叫做基本音级。基本音级的名称是用字母和唱名两种方式来标记的。两个相邻的具有同样名称的音叫做八度。升高或降低基本音级而得来的音，叫做变化音级。将基本音级升高半音用&quot;升&quot;或&quot; &quot;来标明；降低半音用&quot;降&quot; 或&quot; &quot;来表明；升高全音用&quot;重升&quot;或&quot;x&quot;来标明；降低全音用&quot;重降&quot; 或&quot; &quot;来标明；还原用&quot; &quot;表示。&lt;/p&gt;&lt;li&gt;音域与音区&lt;/li&gt;&lt;p&gt;音域可分为总的音域和个别音域、人声和乐器音域。音域中的一部分是音区，音区可分为高音区、中音区和低音区三种。人声的音区划分，往往是不相符合的，例如男低音的高音区却是女低音的低音区。但各音区具有自己的特性音色，这体现在音乐的表现中，一般来说：高音区清脆、尖锐；而低音区则低沉、浑厚。&lt;/p&gt;&lt;/ul&gt;&lt;/div&gt;</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>第三章  认识五线谱和音符的高低</string>
+		<key>content</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>第四章  认识五线谱和音符的高低</string>
+		<key>content</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>第五章  认识五线谱和音符的高低</string>
+		<key>content</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>第六章  认识五线谱和音符的高低</string>
+		<key>content</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
